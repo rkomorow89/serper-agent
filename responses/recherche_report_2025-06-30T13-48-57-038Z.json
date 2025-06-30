@@ -1,0 +1,53 @@
+{
+  "query": "Finde Informationen über KI in Bezug auf Nachhaltigkeit",
+  "timestamp": "2025-06-30T13:48:57.003Z",
+  "analysis": "# RECHERCHE-REPORT: Finde Informationen über KI in Bezug auf Nachhaltigkeit\n\n## 1. EXECUTIVE SUMMARY\n\nDie Suchmaschine hat lediglich Informationen zu Themen mit Bezug zur Künstlichen Intelligenz und deren Auswirkungen auf die Nachhaltigkeit bereitgestellt. Derzeit gibt es nur wenige Quellen, die sich intensiv mit dem Thema beschäftigen. Dennoch lässt sich bereits ein Muster erweisen: KI kann helfen, den Energieverbrauch in der Produktion zu reduzieren, Qualitätskontrolle durchzuführen und Ressourcen zu sparen.\n\n## 2. HAUPTERKENNTNISSE\n\n• Die Künstliche Intelligenz kann dazu beitragen, die Nachhaltigkeit durch die Reduzierung von Energieverbrauch in der Produktion zu steigern.\n• Qualitätskontrolle und vorausschauende Wartung können durch KI-Systeme optimiert werden, um Ressourcen effizienter zu nutzen.\n• Der Einsatz von Künstlicher Intelligenz kann die Durchsetzung der 17 SDG-Ziele unterstützen.\n\n## 3. QUELLENANALYSE\n\nDie gefundenen Quellen sind hinsichtlich Qualität und Vertrauenswürdigkeit unterschiedlich. Die Website des Fraunhofer IAO (95,0% Relevanz) liefert detaillierte Informationen über die Anwendung von KI zur Steigerung der Nachhaltigkeit. Die Studie des Instituts für Innovation und Technik (85,0%) bietet einen umfassenden Überblick über die potenziellen Auswirkungen von KI auf die Nachhaltigkeit. Die Quellen \"rzzki.de\" (75,0% Relevanz) und \"Mittelstand-digital-wertnetzwerke.de\" (65,0%) bieten spezifischere Informationen zu den Anwendungen von KI in der Produktion. Die Quelle von ZDF (55,0%) liefert eine allgemeinere Einschätzung der potenziellen Vorteile und Risiken des Einsatzes von Künstlicher Intelligenz.\n\n## 4. EMPFEHLUNGEN\n\nFolgende Schritte werden empfohlen:\n\n- Eine detaillierte Analyse der Anwendung von KI zur Reduzierung von Energieverbrauch in der Produktion.\n- Eine Studie, die die potenziellen Auswirkungen von KI auf die Durchsetzung der 17 SDG-Ziele untersucht.\n\n---\n\n## DETAILLIERTE QUELLENÜBERSICHT\n**1. Mit Künstlicher Intelligenz zu mehr Nachhaltigkeit - Fraunhofer IAO**\n- Quelle: www.iao.fraunhofer.de\n- Relevanz: 95.0%\n- Beschreibung: Künstliche Intelligenz (KI) kann helfen, die Nachhaltigkeit zu steigern, davon ist der Wirtschaftsingenieur am Fraunhofer-Institut für ...\n- URL: https://www.iao.fraunhofer.de/de/presse-und-medien/aktuelles/mit-kuenstlicher-intelligenz-zu-mehr-nachhaltigkeit.html\n\n**2. [PDF] Nachhaltigkeit durch den Einsatz von KI**\n- Quelle: www.iit-berlin.de\n- Relevanz: 85.0%\n- Beschreibung: Aktuelle Studien gehen davon aus, dass der Einsatz von. Technologien, die auf Künstlicher Intelligenz basieren, maßgeblich zur Durchsetzung der 17 SDG-Ziele und.\n- URL: https://www.iit-berlin.de/wp-content/uploads/2022/11/Studie_KI-und-Nachhaltigkeit_Institut-fuer-Innovation-und-Technik-2022.pdf\n\n**3. KI und Nachhaltigkeit: Wie Künstliche Intelligenz unsere Zukunft ...**\n- Quelle: rzzki.de\n- Relevanz: 75.0%\n- Beschreibung: KI für Nachhaltigkeit bezeichnet KI-Systeme, die Nachhaltigkeitsziele umsetzen – bspw. eine KI, die den Energieverbrauch in der Produktion ...\n- URL: https://rzzki.de/2025/03/12/ki-und-nachhaltigkeit-rzzki/\n\n**4. Nachhaltigkeit durch KI: Wie Unternehmen ihre Prozesse ...**\n- Quelle: www.mittelstand-digital-wertnetzwerke.de\n- Relevanz: 65.0%\n- Beschreibung: In der Produktion kann KI durch Qualitätskontrolle und vorausschauende Wartung Ressourcen sparen und gleichzeitig die Effizienz steigern.\n- URL: https://www.mittelstand-digital-wertnetzwerke.de/blog/nachhaltigkeit-durch-ki-wie-unternehmen-ihre-prozesse-ressourcenschonend-optimieren/\n\n**5. [PDF] KÜNSTLICHE INTELLIGENZ (KI) UND NACHHALTIGKEIT Zahlen**\n- Quelle: www.arbeitswissenschaft.net\n- Relevanz: 55.0%\n- Beschreibung: KI bietet Chancen zur Verbesserung der Nachhaltigkeit in Wirtschaft und Gesellschaft. Es müssen jedoch auch Risiken wie beispielsweise ein erhö ...\n- URL: https://www.arbeitswissenschaft.net/fileadmin/user_upload/ZDF_KI_und_Nachhaltigkeit_final.pdf\n\n---\n*Report generiert am 30.6.2025, 15:48:56 | Quellen: 5 | KI-Model: llama3.2 (Direkte Ollama API)*",
+  "searchResults": [
+    {
+      "title": "Mit Künstlicher Intelligenz zu mehr Nachhaltigkeit - Fraunhofer IAO",
+      "url": "https://www.iao.fraunhofer.de/de/presse-und-medien/aktuelles/mit-kuenstlicher-intelligenz-zu-mehr-nachhaltigkeit.html",
+      "description": "Künstliche Intelligenz (KI) kann helfen, die Nachhaltigkeit zu steigern, davon ist der Wirtschaftsingenieur am Fraunhofer-Institut für ...",
+      "source": "www.iao.fraunhofer.de",
+      "relevance": 0.95,
+      "position": 1
+    },
+    {
+      "title": "[PDF] Nachhaltigkeit durch den Einsatz von KI",
+      "url": "https://www.iit-berlin.de/wp-content/uploads/2022/11/Studie_KI-und-Nachhaltigkeit_Institut-fuer-Innovation-und-Technik-2022.pdf",
+      "description": "Aktuelle Studien gehen davon aus, dass der Einsatz von. Technologien, die auf Künstlicher Intelligenz basieren, maßgeblich zur Durchsetzung der 17 SDG-Ziele und.",
+      "source": "www.iit-berlin.de",
+      "relevance": 0.85,
+      "position": 2
+    },
+    {
+      "title": "KI und Nachhaltigkeit: Wie Künstliche Intelligenz unsere Zukunft ...",
+      "url": "https://rzzki.de/2025/03/12/ki-und-nachhaltigkeit-rzzki/",
+      "description": "KI für Nachhaltigkeit bezeichnet KI-Systeme, die Nachhaltigkeitsziele umsetzen – bspw. eine KI, die den Energieverbrauch in der Produktion ...",
+      "source": "rzzki.de",
+      "relevance": 0.75,
+      "position": 3
+    },
+    {
+      "title": "Nachhaltigkeit durch KI: Wie Unternehmen ihre Prozesse ...",
+      "url": "https://www.mittelstand-digital-wertnetzwerke.de/blog/nachhaltigkeit-durch-ki-wie-unternehmen-ihre-prozesse-ressourcenschonend-optimieren/",
+      "description": "In der Produktion kann KI durch Qualitätskontrolle und vorausschauende Wartung Ressourcen sparen und gleichzeitig die Effizienz steigern.",
+      "source": "www.mittelstand-digital-wertnetzwerke.de",
+      "relevance": 0.6499999999999999,
+      "position": 4
+    },
+    {
+      "title": "[PDF] KÜNSTLICHE INTELLIGENZ (KI) UND NACHHALTIGKEIT Zahlen",
+      "url": "https://www.arbeitswissenschaft.net/fileadmin/user_upload/ZDF_KI_und_Nachhaltigkeit_final.pdf",
+      "description": "KI bietet Chancen zur Verbesserung der Nachhaltigkeit in Wirtschaft und Gesellschaft. Es müssen jedoch auch Risiken wie beispielsweise ein erhö ...",
+      "source": "www.arbeitswissenschaft.net",
+      "relevance": 0.5499999999999999,
+      "position": 5
+    }
+  ],
+  "summary": {
+    "totalSources": 5,
+    "averageRelevance": "75.0%",
+    "topSource": "www.iao.fraunhofer.de"
+  },
+  "apiUsed": "Echte Google-Suche (Serper API)"
+}

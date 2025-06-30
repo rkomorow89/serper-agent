@@ -133,9 +133,16 @@ search-agent-bee-framework/
 ## 🔍 Funktionsweise
 
 1. **Websuche**: Der Agent nutzt die Serper API für echte Google-Suchergebnisse
-2. **LLM-Analyse**: Ollama analysiert und strukturiert die gefundenen Informationen mit professioneller Zusammenfassung auf Deutsch
-3. **Ergebnisse**: Erstellt eine hochwertige deutsche Zusammenfassung der Recherche-Ergebnisse
+2. **KI-Analyse**: Das LLM (llama3.2) über Ollama analysiert und strukturiert die gefundenen Informationen
+3. **Zusammenfassung**: Erstellt eine professionelle deutsche Zusammenfassung der Recherche-Ergebnisse
 4. **Speicherung**: Alle Ergebnisse werden im `responses/` Ordner gespeichert
+
+**Der Agent orchestriert verschiedene Tools:**
+
+- **Serper API** → Echte Google-Suche
+- **Ollama** → LLM-Hosting (llama3.2)  
+- **LLM** → Textanalyse und Zusammenfassung
+- **File System** → Datenpeicherung
 
 ## ⚠️ Fehlerbehebung
 
@@ -213,9 +220,15 @@ Ergebnisse: 4
 **Vollständig funktionsfähig:**
 
 - ✅ Echte Google-Suche über Serper API
-- ✅ LLM-basierte Analyse mit Ollama
+- ✅ LLM-basierte Analyse mit Ollama (llama3.2)
 - ✅ Professionelle deutsche Zusammenfassungen
 - ✅ Strukturierte JSON-Ausgabe
 - ✅ Automatische Datenspeicherung
 - ✅ Saubere, übersichtliche Konsolen-Ausgabe
 
+**Architektur:**
+
+- **Agent-Code:** TypeScript (`serper_agent.ts`) - orchestriert alle Tools
+- **LLM:** llama3.2 über Ollama - reine Textverarbeitung, keine Tools
+- **Web-API:** Serper (Google Search) - Datenquelle
+- **Storage:** Lokales File System - Ergebnisspeicherung
